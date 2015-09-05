@@ -15,7 +15,7 @@ int singleNumber(int* nums, int numsSize)
 	return rt;
 }
 
-void testsingleNumber()
+void testSingleNumber()
 {
 	int arr[] = {1, 2, 3, 2, 1};
 	cout<<singleNumber(arr, sizeof(arr)/sizeof(int))<<endl;

@@ -22,7 +22,7 @@ void deleteNode(struct ListNode* node)
 	free(p);
 }
 
-void testdeleteNode()
+void testDeleteNode()
 {
 	struct ListNode *p1, *p2, *p3, *p4;
 	p1 = (struct ListNode *)malloc(sizeof(struct ListNode));
