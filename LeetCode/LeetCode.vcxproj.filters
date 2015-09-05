@@ -18,7 +18,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="FactorialTrailingZeroes.cpp">
+    <ClCompile Include="Factorial_Trailing_Zeroes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Delete_Node_in_a_Linked_List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
