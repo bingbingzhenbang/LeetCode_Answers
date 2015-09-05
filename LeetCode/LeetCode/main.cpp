@@ -1,9 +1,11 @@
 void testtrailingZeroes();
 void testdeleteNode();
+void testsingleNumber();
 
 int main()
 {
 	//testtrailingZeroes();
-	testdeleteNode();
+	//testdeleteNode();
+	testsingleNumber();
 	return 0;
 }
