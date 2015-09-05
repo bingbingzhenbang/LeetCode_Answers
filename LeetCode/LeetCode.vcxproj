@@ -79,6 +79,7 @@
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Single_Number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
