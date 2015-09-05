@@ -1,11 +1,13 @@
-void testtrailingZeroes();
-void testdeleteNode();
-void testsingleNumber();
+void testTrailingZeroes();
+void testDeleteNode();
+void testSingleNumber();
+void testContainsDuplicate();
 
 int main()
 {
-	//testtrailingZeroes();
-	//testdeleteNode();
-	testsingleNumber();
+	//testTrailingZeroes();
+	//testDeleteNode();
+	//testSingleNumber();
+	testContainsDuplicate();
 	return 0;
 }

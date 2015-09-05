@@ -17,7 +17,7 @@ int trailingZeroes(int n)
 	return cnt;
 }
 
-void testtrailingZeroes()
+void testTrailingZeroes()
 {
 	int n;
 	cin>>n;
