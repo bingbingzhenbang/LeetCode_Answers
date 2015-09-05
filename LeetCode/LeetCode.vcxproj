@@ -76,7 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ContainsDuplicate.cpp" />
+    <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="main.cpp" />

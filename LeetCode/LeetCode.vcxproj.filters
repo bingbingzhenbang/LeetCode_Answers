@@ -27,7 +27,7 @@
     <ClCompile Include="Single_Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ContainsDuplicate.cpp">
+    <ClCompile Include="Contains_Duplicate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
