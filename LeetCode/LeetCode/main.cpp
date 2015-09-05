@@ -1,7 +1,9 @@
 void testtrailingZeroes();
+void testdeleteNode();
 
 int main()
 {
-	testtrailingZeroes();
+	//testtrailingZeroes();
+	testdeleteNode();
 	return 0;
 }

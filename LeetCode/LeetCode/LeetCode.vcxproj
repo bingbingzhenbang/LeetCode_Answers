@@ -76,7 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FactorialTrailingZeroes.cpp" />
+    <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
+    <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
