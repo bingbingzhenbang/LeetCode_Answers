@@ -13,9 +13,14 @@
 //	For example, the lowest common ancestor (LCA) of nodes 2 and 8 is 6. Another example is LCA of nodes 2 and 4 is 2, since a node can be a descendant of itself according to the LCA definition.
 
 #include "TreeNode.h"
+#include <cstdlib>
 
 struct TreeNode* lowestCommonAncestor(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q)
 {
-
-	return 0;
+	if (p->val < root->val && q->val < root->val)
+		return lowestCommonAncestor(root->left, p, q);
+	else if (p->val > root->val && q->val > root->val)
+		return lowestCommonAncestor(root->right, p, q);
+	else
+		return root;
 }
