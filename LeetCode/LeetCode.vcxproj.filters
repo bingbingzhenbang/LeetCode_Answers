@@ -48,6 +48,12 @@
     <ClCompile Include="Linked_List_Cycle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Product_of_Array_Except_Self.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Implement_Queue_using_Stacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
