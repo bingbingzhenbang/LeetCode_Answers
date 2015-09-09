@@ -81,8 +81,10 @@
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
+    <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor .cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Single_Number.cpp" />
   </ItemGroup>
   <ItemGroup>
