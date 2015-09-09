@@ -4,6 +4,8 @@ void testSingleNumber();
 void testContainsDuplicate();
 void testAddDigits();
 void testHammingWeight();
+void testProductExceptSelf();
+void testQueue();
 
 int main()
 {
@@ -12,6 +14,8 @@ int main()
 	//testSingleNumber();
 	//testContainsDuplicate();
 	//testAddDigits();
-	testHammingWeight();
+	//testHammingWeight();
+	//testProductExceptSelf();
+	testQueue();
 	return 0;
 }
