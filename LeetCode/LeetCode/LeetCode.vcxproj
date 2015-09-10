@@ -88,6 +88,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
+    <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Single_Number.cpp" />
   </ItemGroup>
   <ItemGroup>
