@@ -6,6 +6,7 @@ void testAddDigits();
 void testHammingWeight();
 void testProductExceptSelf();
 void testQueue();
+void testClimbStairs();
 
 int main()
 {
@@ -16,6 +17,7 @@ int main()
 	//testAddDigits();
 	//testHammingWeight();
 	//testProductExceptSelf();
-	testQueue();
+	//testQueue();
+	testClimbStairs();
 	return 0;
 }

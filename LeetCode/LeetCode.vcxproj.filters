@@ -33,9 +33,6 @@
     <ClCompile Include="Add_Digits.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Lowest_Common_Ancestor .cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Hamming_Weight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -55,6 +52,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Reverse_Linked_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Climbing_Stairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
