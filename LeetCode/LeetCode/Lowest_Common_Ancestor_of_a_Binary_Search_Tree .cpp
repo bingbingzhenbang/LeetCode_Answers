@@ -15,12 +15,12 @@
 #include "TreeNode.h"
 #include <cstdlib>
 
-struct TreeNode* lowestCommonAncestor(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q)
+struct TreeNode* lowestCommonAncestorBST(struct TreeNode* root, struct TreeNode* p, struct TreeNode* q)
 {
 	if (p->val < root->val && q->val < root->val)
-		return lowestCommonAncestor(root->left, p, q);
+		return lowestCommonAncestorBST(root->left, p, q);
 	else if (p->val > root->val && q->val > root->val)
-		return lowestCommonAncestor(root->right, p, q);
+		return lowestCommonAncestorBST(root->right, p, q);
 	else
 		return root;
 }
