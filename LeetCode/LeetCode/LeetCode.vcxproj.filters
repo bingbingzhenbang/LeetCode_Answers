@@ -69,6 +69,12 @@
     <ClCompile Include="Excel_Sheet_Column_Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Search_Insert_Position.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid_Anagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
