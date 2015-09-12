@@ -8,6 +8,7 @@ void testProductExceptSelf();
 void testQueue();
 void testClimbStairs();
 void testSingleNumber3();
+void testTitleToNumber();
 
 int main()
 {
@@ -20,6 +21,7 @@ int main()
 	//testProductExceptSelf();
 	//testQueue();
 	//testClimbStairs();
-	testSingleNumber3();
+	//testSingleNumber3();
+	testTitleToNumber();
 	return 0;
 }
