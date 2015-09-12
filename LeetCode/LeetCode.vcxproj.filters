@@ -63,6 +63,9 @@
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Single_Number_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

@@ -7,6 +7,7 @@ void testHammingWeight();
 void testProductExceptSelf();
 void testQueue();
 void testClimbStairs();
+void testSingleNumber3();
 
 int main()
 {
@@ -18,6 +19,7 @@ int main()
 	//testHammingWeight();
 	//testProductExceptSelf();
 	//testQueue();
-	testClimbStairs();
+	//testClimbStairs();
+	testSingleNumber3();
 	return 0;
 }
