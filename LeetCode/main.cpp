@@ -9,6 +9,8 @@ void testQueue();
 void testClimbStairs();
 void testSingleNumber3();
 void testTitleToNumber();
+void testsearchInsert();
+void testIsAnagram();
 
 int main()
 {
@@ -22,6 +24,8 @@ int main()
 	//testQueue();
 	//testClimbStairs();
 	//testSingleNumber3();
-	testTitleToNumber();
+	//testTitleToNumber();
+	//testsearchInsert();
+	testIsAnagram();
 	return 0;
 }
