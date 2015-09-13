@@ -84,6 +84,9 @@
     <ClCompile Include="Power_of_Two.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Single_Number_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

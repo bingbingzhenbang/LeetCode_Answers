@@ -12,6 +12,7 @@ void testTitleToNumber();
 void testsearchInsert();
 void testIsAnagram();
 void testIsPowerOfTwo();
+void testSingleNumber2();
 
 int main()
 {
@@ -28,6 +29,7 @@ int main()
 	//testTitleToNumber();
 	//testsearchInsert();
 	//testIsAnagram();
-	testIsPowerOfTwo();
+	//testIsPowerOfTwo();
+	testSingleNumber2();
 	return 0;
 }
