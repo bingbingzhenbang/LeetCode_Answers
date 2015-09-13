@@ -96,6 +96,7 @@
     <ClCompile Include="Search_Insert_Position.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
     <ClCompile Include="Single_Number.cpp" />
+    <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
