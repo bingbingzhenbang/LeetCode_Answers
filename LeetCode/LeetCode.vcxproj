@@ -92,6 +92,7 @@
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
+    <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
