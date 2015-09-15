@@ -13,6 +13,7 @@ void testsearchInsert();
 void testIsAnagram();
 void testIsPowerOfTwo();
 void testSingleNumber2();
+void testStack();
 
 int main()
 {
@@ -30,6 +31,7 @@ int main()
 	//testsearchInsert();
 	//testIsAnagram();
 	//testIsPowerOfTwo();
-	testSingleNumber2();
+	//testSingleNumber2();
+	testStack();
 	return 0;
 }
