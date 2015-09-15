@@ -84,11 +84,14 @@
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
+    <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
+    <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
