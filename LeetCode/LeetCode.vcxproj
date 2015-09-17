@@ -103,6 +103,7 @@
     <ClCompile Include="Single_Number.cpp" />
     <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
+    <ClCompile Include="Sort_Colors.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
   </ItemGroup>
