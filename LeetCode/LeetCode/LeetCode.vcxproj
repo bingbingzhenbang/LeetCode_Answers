@@ -82,6 +82,7 @@
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
+    <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
