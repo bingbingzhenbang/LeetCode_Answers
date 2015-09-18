@@ -97,8 +97,11 @@
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
+    <ClCompile Include="Remove_Linked_List_Elements.cpp" />
+    <ClCompile Include="Reverse_Integer.cpp" />
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
+    <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
     <ClCompile Include="Single_Number.cpp" />

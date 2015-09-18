@@ -15,6 +15,8 @@ void testIsPowerOfTwo();
 void testSingleNumber2();
 void testStack();
 void testSearchMatrix();
+void testSearchMatrix2();
+void testReverse();
 
 int main()
 {
@@ -34,6 +36,8 @@ int main()
 	//testIsPowerOfTwo();
 	//testSingleNumber2();
 	//testStack();
-	testSearchMatrix();
+	//testSearchMatrix();
+	//testSearchMatrix2();
+	testReverse();
 	return 0;
 }
