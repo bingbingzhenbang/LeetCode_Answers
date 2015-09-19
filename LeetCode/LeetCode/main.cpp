@@ -20,6 +20,9 @@ void testReverse();
 void testLargestNumber();
 void testMoveZeroes();
 void testConvertToTitle();
+void testIsPalindrome();
+void testReverseBits();
+void testRemoveElement();
 
 int main()
 {
@@ -44,6 +47,9 @@ int main()
 	//testReverse();
 	//testLargestNumber();
 	//testMoveZeroes();
-	testConvertToTitle();
+	//testConvertToTitle();
+	//testIsPalindrome();
+	//testReverseBits();
+	testRemoveElement();
 	return 0;
 }
