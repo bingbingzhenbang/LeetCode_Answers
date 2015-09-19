@@ -17,6 +17,7 @@ void testStack();
 void testSearchMatrix();
 void testSearchMatrix2();
 void testReverse();
+void testLargestNumber();
 
 int main()
 {
@@ -38,6 +39,7 @@ int main()
 	//testStack();
 	//testSearchMatrix();
 	//testSearchMatrix2();
-	testReverse();
+	//testReverse();
+	testLargestNumber();
 	return 0;
 }
