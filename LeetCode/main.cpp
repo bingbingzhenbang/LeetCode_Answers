@@ -18,6 +18,8 @@ void testSearchMatrix();
 void testSearchMatrix2();
 void testReverse();
 void testLargestNumber();
+void testMoveZeroes();
+void testConvertToTitle();
 
 int main()
 {
@@ -40,6 +42,8 @@ int main()
 	//testSearchMatrix();
 	//testSearchMatrix2();
 	//testReverse();
-	testLargestNumber();
+	//testLargestNumber();
+	//testMoveZeroes();
+	testConvertToTitle();
 	return 0;
 }
