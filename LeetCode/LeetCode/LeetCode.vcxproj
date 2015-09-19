@@ -81,6 +81,7 @@
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
+    <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
@@ -94,6 +95,8 @@
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
+    <ClCompile Include="Move_Zeroes.cpp" />
+    <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
