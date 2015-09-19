@@ -129,6 +129,9 @@
     <ClCompile Include="Palindrome_Linked_List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Reorder_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

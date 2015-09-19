@@ -102,6 +102,7 @@
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
     <ClCompile Include="Remove_Linked_List_Elements.cpp" />
+    <ClCompile Include="Reorder_List.cpp" />
     <ClCompile Include="Reverse_Integer.cpp" />
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
