@@ -98,6 +98,7 @@
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
+    <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
