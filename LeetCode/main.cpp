@@ -24,6 +24,7 @@ void testIsPalindrome();
 void testReverseBits();
 void testRemoveElement();
 void testIsUgly();
+void testPlusOne();
 
 int main()
 {
@@ -52,6 +53,7 @@ int main()
 	//testIsPalindrome();
 	//testReverseBits();
 	//testRemoveElement();
-	testIsUgly();
+	//testIsUgly();
+	testPlusOne();
 	return 0;
 }
