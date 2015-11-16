@@ -96,6 +96,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
+    <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
@@ -116,6 +117,7 @@
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
+    <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
   </ItemGroup>
   <ItemGroup>
