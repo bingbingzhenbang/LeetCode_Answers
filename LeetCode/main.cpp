@@ -28,6 +28,7 @@ void testPlusOne();
 void testPermute();
 void testSwapPairs();
 void testCombine();
+void testRemoveNthFromEnd();
 
 int main()
 {
@@ -60,6 +61,7 @@ int main()
 	//testPlusOne();
 	//testPermute();
 	//testSwapPairs();
-	testCombine();
+	//testCombine();
+	testRemoveNthFromEnd();
 	return 0;
 }
