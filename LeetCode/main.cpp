@@ -25,6 +25,9 @@ void testReverseBits();
 void testRemoveElement();
 void testIsUgly();
 void testPlusOne();
+void testPermute();
+void testSwapPairs();
+void testCombine();
 
 int main()
 {
@@ -54,6 +57,9 @@ int main()
 	//testReverseBits();
 	//testRemoveElement();
 	//testIsUgly();
-	testPlusOne();
+	//testPlusOne();
+	//testPermute();
+	//testSwapPairs();
+	testCombine();
 	return 0;
 }
