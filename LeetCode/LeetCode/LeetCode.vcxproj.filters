@@ -156,6 +156,9 @@
     <ClCompile Include="Combinations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Remove_Nth_Node_From_End_of_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

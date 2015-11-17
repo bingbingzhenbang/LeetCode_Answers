@@ -107,6 +107,7 @@
     <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
     <ClCompile Include="Remove_Element.cpp" />
     <ClCompile Include="Remove_Linked_List_Elements.cpp" />
+    <ClCompile Include="Remove_Nth_Node_From_End_of_List.cpp" />
     <ClCompile Include="Reorder_List.cpp" />
     <ClCompile Include="Reverse_Bits.cpp" />
     <ClCompile Include="Reverse_Integer.cpp" />
