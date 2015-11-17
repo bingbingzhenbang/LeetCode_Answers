@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
+    <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
@@ -98,6 +99,7 @@
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
+    <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
@@ -117,6 +119,7 @@
     <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
+    <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
