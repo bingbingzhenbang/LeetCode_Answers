@@ -29,6 +29,7 @@ void testPermute();
 void testSwapPairs();
 void testCombine();
 void testRemoveNthFromEnd();
+void testCompareVersion();
 
 int main()
 {
@@ -62,6 +63,7 @@ int main()
 	//testPermute();
 	//testSwapPairs();
 	//testCombine();
-	testRemoveNthFromEnd();
+	//testRemoveNthFromEnd();
+	testCompareVersion();
 	return 0;
 }

@@ -79,6 +79,7 @@
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
     <ClCompile Include="Combinations.cpp" />
+    <ClCompile Include="Compare_Version_Numbers.cpp" />
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
