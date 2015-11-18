@@ -30,6 +30,7 @@ void testSwapPairs();
 void testCombine();
 void testRemoveNthFromEnd();
 void testCompareVersion();
+void testIsValid();
 
 int main()
 {
@@ -64,6 +65,7 @@ int main()
 	//testSwapPairs();
 	//testCombine();
 	//testRemoveNthFromEnd();
-	testCompareVersion();
+	//testCompareVersion();
+	testIsValid();
 	return 0;
 }
