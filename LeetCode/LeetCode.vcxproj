@@ -100,6 +100,7 @@
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
+    <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
@@ -125,6 +126,7 @@
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
+    <ClCompile Include="Valid_Palindrome.cpp" />
     <ClCompile Include="Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
