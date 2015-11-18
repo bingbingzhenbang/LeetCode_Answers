@@ -171,6 +171,9 @@
     <ClCompile Include="Palindrome_Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Validate_Binary_Search_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
