@@ -125,6 +125,7 @@
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
+    <ClCompile Include="Valid_Parentheses.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />

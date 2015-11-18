@@ -162,6 +162,9 @@
     <ClCompile Include="Compare_Version_Numbers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Valid_Parentheses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
