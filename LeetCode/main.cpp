@@ -31,6 +31,8 @@ void testCombine();
 void testRemoveNthFromEnd();
 void testCompareVersion();
 void testIsValid();
+void testGenerate();
+void testRemoveDuplicates();
 
 int main()
 {
@@ -66,6 +68,8 @@ int main()
 	//testCombine();
 	//testRemoveNthFromEnd();
 	//testCompareVersion();
-	testIsValid();
+	//testIsValid();
+	//testGenerate();
+	testRemoveDuplicates();
 	return 0;
 }
