@@ -33,6 +33,7 @@ void testCompareVersion();
 void testIsValid();
 void testGenerate();
 void testRemoveDuplicates();
+void testGetRow();
 
 int main()
 {
@@ -70,6 +71,7 @@ int main()
 	//testCompareVersion();
 	//testIsValid();
 	//testGenerate();
-	testRemoveDuplicates();
+	//testRemoveDuplicates();
+	testGetRow();
 	return 0;
 }

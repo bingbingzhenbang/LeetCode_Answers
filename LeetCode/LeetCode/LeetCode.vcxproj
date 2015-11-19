@@ -102,6 +102,7 @@
     <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Pascal_Triangle.cpp" />
+    <ClCompile Include="Pascal_Triangle_2.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
