@@ -180,6 +180,9 @@
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pascal_Triangle_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
