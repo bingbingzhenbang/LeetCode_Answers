@@ -36,6 +36,9 @@ void testRemoveDuplicates();
 void testGetRow();
 void testSummaryRanges();
 void testRemoveDuplicates2();
+void testDeleteDuplicates2();
+void testSortList();
+void testInsertionSortList();
 
 int main()
 {
@@ -76,6 +79,9 @@ int main()
 	//testRemoveDuplicates();
 	//testGetRow();
 	//testSummaryRanges();
-	testRemoveDuplicates2();
+	//testRemoveDuplicates2();
+	//testDeleteDuplicates2();
+	//testSortList();
+	testInsertionSortList();
 	return 0;
 }

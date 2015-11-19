@@ -90,6 +90,7 @@
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
+    <ClCompile Include="Insertion_Sort_List.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
@@ -111,6 +112,7 @@
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array_2.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
+    <ClCompile Include="Remove_Duplicates_from_Sorted_List_2.cpp" />
     <ClCompile Include="Remove_Element.cpp" />
     <ClCompile Include="Remove_Linked_List_Elements.cpp" />
     <ClCompile Include="Remove_Nth_Node_From_End_of_List.cpp" />
@@ -126,6 +128,7 @@
     <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
+    <ClCompile Include="Sort_List.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
