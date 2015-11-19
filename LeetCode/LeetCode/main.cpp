@@ -34,6 +34,8 @@ void testIsValid();
 void testGenerate();
 void testRemoveDuplicates();
 void testGetRow();
+void testSummaryRanges();
+void testRemoveDuplicates2();
 
 int main()
 {
@@ -72,6 +74,8 @@ int main()
 	//testIsValid();
 	//testGenerate();
 	//testRemoveDuplicates();
-	testGetRow();
+	//testGetRow();
+	//testSummaryRanges();
+	testRemoveDuplicates2();
 	return 0;
 }
