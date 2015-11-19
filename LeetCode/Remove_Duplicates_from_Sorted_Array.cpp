@@ -35,7 +35,7 @@ int removeDuplicates(vector<int>& nums)
 void testRemoveDuplicates()
 {
 	//int arr[] = {1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 5};
-	int arr[] = {1, 1, 2, 2};
+	int arr[] = {1, 1, 2, 3};
 	//int arr[] = {-3,-3,-2,-1,-1,0,0,0,0,0};
 	int sz = sizeof(arr)/sizeof(int);
 	vector<int> nums(sz);

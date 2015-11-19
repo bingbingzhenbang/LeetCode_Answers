@@ -109,6 +109,7 @@
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp" />
+    <ClCompile Include="Remove_Duplicates_from_Sorted_Array_2.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_List.cpp" />
     <ClCompile Include="Remove_Element.cpp" />
     <ClCompile Include="Remove_Linked_List_Elements.cpp" />
@@ -125,6 +126,7 @@
     <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
+    <ClCompile Include="Summary_Ranges.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
