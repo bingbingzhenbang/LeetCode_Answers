@@ -39,6 +39,7 @@ void testRemoveDuplicates2();
 void testDeleteDuplicates2();
 void testSortList();
 void testInsertionSortList();
+void testMinimumTotal();
 
 int main()
 {
@@ -82,6 +83,7 @@ int main()
 	//testRemoveDuplicates2();
 	//testDeleteDuplicates2();
 	//testSortList();
-	testInsertionSortList();
+	//testInsertionSortList();
+	testMinimumTotal();
 	return 0;
 }
