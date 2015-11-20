@@ -40,6 +40,8 @@ void testDeleteDuplicates2();
 void testSortList();
 void testInsertionSortList();
 void testMinimumTotal();
+void testRotate();
+void testReverseWords();
 
 int main()
 {
@@ -84,6 +86,8 @@ int main()
 	//testDeleteDuplicates2();
 	//testSortList();
 	//testInsertionSortList();
-	testMinimumTotal();
+	//testMinimumTotal();
+	//testRotate();
+	testReverseWords();
 	return 0;
 }
