@@ -42,6 +42,7 @@ void testInsertionSortList();
 void testMinimumTotal();
 void testRotate();
 void testReverseWords();
+void testComputeArea();
 
 int main()
 {
@@ -88,6 +89,7 @@ int main()
 	//testInsertionSortList();
 	//testMinimumTotal();
 	//testRotate();
-	testReverseWords();
+	//testReverseWords();
+	testComputeArea();
 	return 0;
 }
