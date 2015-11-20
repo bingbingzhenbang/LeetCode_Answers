@@ -210,6 +210,9 @@
     <ClCompile Include="Linked_List_Cycle_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Rectangle_Area.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
