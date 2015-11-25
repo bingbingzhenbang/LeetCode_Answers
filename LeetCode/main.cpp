@@ -44,6 +44,8 @@ void testRotate();
 void testReverseWords();
 void testComputeArea();
 void testNumTrees();
+void testSpiralOrder();
+void testGenerateMatrix();
 
 int main()
 {
@@ -92,6 +94,8 @@ int main()
 	//testRotate();
 	//testReverseWords();
 	//testComputeArea();
-	testNumTrees();
+	//testNumTrees();
+	//testSpiralOrder();
+	testGenerateMatrix();
 	return 0;
 }
