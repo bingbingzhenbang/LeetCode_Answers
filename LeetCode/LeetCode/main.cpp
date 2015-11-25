@@ -43,6 +43,7 @@ void testMinimumTotal();
 void testRotate();
 void testReverseWords();
 void testComputeArea();
+void testNumTrees();
 
 int main()
 {
@@ -90,6 +91,7 @@ int main()
 	//testMinimumTotal();
 	//testRotate();
 	//testReverseWords();
-	testComputeArea();
+	//testComputeArea();
+	testNumTrees();
 	return 0;
 }
