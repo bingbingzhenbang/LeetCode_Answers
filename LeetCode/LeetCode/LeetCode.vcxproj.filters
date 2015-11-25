@@ -228,6 +228,9 @@
     <ClCompile Include="Spiral_Matrix_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="House_Robber_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
