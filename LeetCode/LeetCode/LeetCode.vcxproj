@@ -88,6 +88,7 @@
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
+    <ClCompile Include="House_Robber.cpp" />
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
@@ -134,6 +135,8 @@
     <ClCompile Include="Single_Number_3.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
     <ClCompile Include="Sort_List.cpp" />
+    <ClCompile Include="Spiral_Matrix.cpp" />
+    <ClCompile Include="Spiral_Matrix_2.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
