@@ -213,6 +213,12 @@
     <ClCompile Include="Rectangle_Area.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Unique_Binary_Search_Trees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Container_With_Most_Water.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

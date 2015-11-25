@@ -80,6 +80,7 @@
     <ClCompile Include="Climbing_Stairs.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
+    <ClCompile Include="Container_With_Most_Water.cpp" />
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
+    <ClCompile Include="Unique_Binary_Search_Trees.cpp" />
     <ClCompile Include="Validate_Binary_Search_Tree.cpp" />
     <ClCompile Include="Valid_Anagram.cpp" />
     <ClCompile Include="Valid_Palindrome.cpp" />
