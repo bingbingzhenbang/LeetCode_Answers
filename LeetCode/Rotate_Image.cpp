@@ -29,7 +29,7 @@ void rotate(vector<vector<int>>& matrix)
 	}
 }
 
-void testRotate()
+void testRotateMatrix()
 {
 	vector<vector<int>> matrix = { { 1, 2 }, { 3, 4 } };
 	rotate(matrix);
