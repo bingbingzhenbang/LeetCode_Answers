@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add_Digits.cpp" />
+    <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
@@ -94,10 +95,12 @@
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Insertion_Sort_List.cpp" />
+    <ClCompile Include="Isomorphic_Strings.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
+    <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="main.cpp" />
@@ -126,7 +129,9 @@
     <ClCompile Include="Reverse_Integer.cpp" />
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Reverse_Words_in_a_String.cpp" />
+    <ClCompile Include="Rotate_Array.cpp" />
     <ClCompile Include="Rotate_Image.cpp" />
+    <ClCompile Include="Rotate_List.cpp" />
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
     <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />

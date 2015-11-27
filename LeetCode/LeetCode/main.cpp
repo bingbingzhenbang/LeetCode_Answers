@@ -40,12 +40,16 @@ void testDeleteDuplicates2();
 void testSortList();
 void testInsertionSortList();
 void testMinimumTotal();
-void testRotate();
+void testRotateMatrix();
 void testReverseWords();
 void testComputeArea();
 void testNumTrees();
 void testSpiralOrder();
 void testGenerateMatrix();
+void testGetHint();
+void testIsIsomorphic();
+void testRotateArray();
+void testLengthOfLongestSubstring();
 
 int main()
 {
@@ -96,6 +100,10 @@ int main()
 	//testComputeArea();
 	//testNumTrees();
 	//testSpiralOrder();
-	testGenerateMatrix();
+	//testGenerateMatrix();
+	//testGetHint();
+	//testIsIsomorphic();
+	//testRotateArray();
+	testLengthOfLongestSubstring();
 	return 0;
 }
