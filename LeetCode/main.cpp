@@ -50,6 +50,8 @@ void testGetHint();
 void testIsIsomorphic();
 void testRotateArray();
 void testLengthOfLongestSubstring();
+void testRomanToInt();
+void testIntToRoman();
 
 int main()
 {
@@ -104,6 +106,8 @@ int main()
 	//testGetHint();
 	//testIsIsomorphic();
 	//testRotateArray();
-	testLengthOfLongestSubstring();
+	//testLengthOfLongestSubstring();
+	//testRomanToInt();
+	testIntToRoman();
 	return 0;
 }

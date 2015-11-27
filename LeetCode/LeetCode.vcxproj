@@ -95,6 +95,7 @@
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Insertion_Sort_List.cpp" />
+    <ClCompile Include="Integer_to_Roman.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
@@ -129,6 +130,7 @@
     <ClCompile Include="Reverse_Integer.cpp" />
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Reverse_Words_in_a_String.cpp" />
+    <ClCompile Include="Roman_to_Integer.cpp" />
     <ClCompile Include="Rotate_Array.cpp" />
     <ClCompile Include="Rotate_Image.cpp" />
     <ClCompile Include="Rotate_List.cpp" />
