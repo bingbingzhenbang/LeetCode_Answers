@@ -246,6 +246,12 @@
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Roman_to_Integer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Integer_to_Roman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
