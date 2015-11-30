@@ -252,6 +252,9 @@
     <ClCompile Include="Integer_to_Roman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Burst_Balloons.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
+    <ClCompile Include="Burst_Balloons.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
