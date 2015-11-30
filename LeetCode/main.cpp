@@ -52,6 +52,7 @@ void testRotateArray();
 void testLengthOfLongestSubstring();
 void testRomanToInt();
 void testIntToRoman();
+void testMaxCoins();
 
 int main()
 {
@@ -108,6 +109,7 @@ int main()
 	//testRotateArray();
 	//testLengthOfLongestSubstring();
 	//testRomanToInt();
-	testIntToRoman();
+	//testIntToRoman();
+	testMaxCoins();
 	return 0;
 }
