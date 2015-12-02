@@ -53,6 +53,7 @@ void testLengthOfLongestSubstring();
 void testRomanToInt();
 void testIntToRoman();
 void testMaxCoins();
+void testMaxSubArray();
 
 int main()
 {
@@ -110,6 +111,7 @@ int main()
 	//testLengthOfLongestSubstring();
 	//testRomanToInt();
 	//testIntToRoman();
-	testMaxCoins();
+	//testMaxCoins();
+	testMaxSubArray();
 	return 0;
 }
