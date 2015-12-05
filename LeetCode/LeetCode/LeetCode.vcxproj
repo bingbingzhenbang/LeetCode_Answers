@@ -97,6 +97,7 @@
     <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Insertion_Sort_List.cpp" />
     <ClCompile Include="Integer_to_Roman.cpp" />
+    <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
@@ -106,7 +107,9 @@
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Majority_Element.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
+    <ClCompile Include="Merge_Sorted_Array.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />

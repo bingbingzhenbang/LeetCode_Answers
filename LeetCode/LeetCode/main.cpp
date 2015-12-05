@@ -54,6 +54,7 @@ void testRomanToInt();
 void testIntToRoman();
 void testMaxCoins();
 void testMaxSubArray();
+void testMajorityElement();
 
 int main()
 {
@@ -112,6 +113,7 @@ int main()
 	//testRomanToInt();
 	//testIntToRoman();
 	//testMaxCoins();
-	testMaxSubArray();
+	//testMaxSubArray();
+	testMajorityElement();
 	return 0;
 }
