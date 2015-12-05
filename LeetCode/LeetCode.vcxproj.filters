@@ -258,6 +258,15 @@
     <ClCompile Include="Maximum_Subarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Majority_Element.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge_Sorted_Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
