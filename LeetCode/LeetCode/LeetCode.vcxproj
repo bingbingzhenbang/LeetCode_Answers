@@ -101,6 +101,7 @@
     <ClCompile Include="Isomorphic_Strings.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
+    <ClCompile Include="Length_of_Last_Word.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />

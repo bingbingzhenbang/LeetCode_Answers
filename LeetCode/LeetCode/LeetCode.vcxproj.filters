@@ -267,6 +267,9 @@
     <ClCompile Include="Merge_Sorted_Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Length_of_Last_Word.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
