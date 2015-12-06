@@ -55,6 +55,9 @@ void testIntToRoman();
 void testMaxCoins();
 void testMaxSubArray();
 void testMajorityElement();
+void testIsHappy();
+void testContainsNearbyDuplicate();
+void testContainsNearbyAlmostDuplicate();
 
 int main()
 {
@@ -114,6 +117,9 @@ int main()
 	//testIntToRoman();
 	//testMaxCoins();
 	//testMaxSubArray();
-	testMajorityElement();
+	//testMajorityElement();
+	//testIsHappy();
+	//testContainsNearbyDuplicate();
+	testContainsNearbyAlmostDuplicate();
 	return 0;
 }

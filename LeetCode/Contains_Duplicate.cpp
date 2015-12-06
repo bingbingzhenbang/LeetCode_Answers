@@ -6,7 +6,8 @@
 
 using namespace std;
 
-bool containsDuplicate(vector<int>& nums) {
+bool containsDuplicate(vector<int>& nums)
+{
 	set<int> elements;
 	size_t vec_sz = nums.size();
 	for (size_t i = 0; i < vec_sz; ++i)

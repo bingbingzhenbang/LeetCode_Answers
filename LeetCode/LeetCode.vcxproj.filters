@@ -270,6 +270,15 @@
     <ClCompile Include="Length_of_Last_Word.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Happy_Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Contains_Duplicate_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Contains_Duplicate_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

@@ -84,12 +84,15 @@
     <ClCompile Include="Compare_Version_Numbers.cpp" />
     <ClCompile Include="Container_With_Most_Water.cpp" />
     <ClCompile Include="Contains_Duplicate.cpp" />
+    <ClCompile Include="Contains_Duplicate_2.cpp" />
+    <ClCompile Include="Contains_Duplicate_3.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
+    <ClCompile Include="Happy_Number.cpp" />
     <ClCompile Include="House_Robber.cpp" />
     <ClCompile Include="House_Robber_2.cpp" />
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
