@@ -77,6 +77,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add_Digits.cpp" />
+    <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
+    <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
@@ -149,6 +151,7 @@
     <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
+    <ClCompile Include="Simplify_Path.cpp" />
     <ClCompile Include="Single_Number.cpp" />
     <ClCompile Include="Single_Number_2.cpp" />
     <ClCompile Include="Single_Number_3.cpp" />
