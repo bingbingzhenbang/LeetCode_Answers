@@ -4,8 +4,9 @@
 struct TreeNode
 {
 	int val;
-	struct TreeNode *left;
-	struct TreeNode *right;
+	TreeNode *left;
+	TreeNode *right;
+	TreeNode(int x = 0) : val(x), left(0), right(0) {}
 };
 
 #endif // TREENODE_H
