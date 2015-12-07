@@ -58,6 +58,7 @@ void testMajorityElement();
 void testIsHappy();
 void testContainsNearbyDuplicate();
 void testContainsNearbyAlmostDuplicate();
+void testWordPattern();
 
 int main()
 {
@@ -120,6 +121,7 @@ int main()
 	//testMajorityElement();
 	//testIsHappy();
 	//testContainsNearbyDuplicate();
-	testContainsNearbyAlmostDuplicate();
+	//testContainsNearbyAlmostDuplicate();
+	testWordPattern();
 	return 0;
 }
