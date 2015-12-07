@@ -60,6 +60,9 @@ void testContainsNearbyDuplicate();
 void testContainsNearbyAlmostDuplicate();
 void testWordPattern();
 void testCountDigitOne();
+void testSimplifyPath();
+void testMaxProfit();
+void testMaxProfit2();
 
 int main()
 {
@@ -124,6 +127,9 @@ int main()
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
 	//testWordPattern();
-	testCountDigitOne();
+	//testCountDigitOne();
+	//testSimplifyPath();
+	//testMaxProfit();
+	testMaxProfit2();
 	return 0;
 }
