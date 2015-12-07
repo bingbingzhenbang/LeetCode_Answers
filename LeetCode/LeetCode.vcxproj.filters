@@ -297,6 +297,12 @@
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Longest_Common_Prefix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
