@@ -279,6 +279,9 @@
     <ClCompile Include="Contains_Duplicate_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Word_Pattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

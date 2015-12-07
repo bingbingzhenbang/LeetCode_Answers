@@ -164,6 +164,7 @@
     <ClCompile Include="Valid_Anagram.cpp" />
     <ClCompile Include="Valid_Palindrome.cpp" />
     <ClCompile Include="Valid_Parentheses.cpp" />
+    <ClCompile Include="Word_Pattern.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
