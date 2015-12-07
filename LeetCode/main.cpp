@@ -59,6 +59,7 @@ void testIsHappy();
 void testContainsNearbyDuplicate();
 void testContainsNearbyAlmostDuplicate();
 void testWordPattern();
+void testCountDigitOne();
 
 int main()
 {
@@ -122,6 +123,7 @@ int main()
 	//testIsHappy();
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
-	testWordPattern();
+	//testWordPattern();
+	testCountDigitOne();
 	return 0;
 }

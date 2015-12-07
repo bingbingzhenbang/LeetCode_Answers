@@ -4,7 +4,8 @@
 struct ListNode 
 {
 	int val;
-	struct ListNode *next;
+	ListNode *next;
+	ListNode(int x = 0) : val(x), next(0) {}
 };
 
 #endif // 

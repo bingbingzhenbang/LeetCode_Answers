@@ -86,6 +86,7 @@
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Contains_Duplicate_2.cpp" />
     <ClCompile Include="Contains_Duplicate_3.cpp" />
+    <ClCompile Include="Count_Complete_Tree_Nodes.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
@@ -117,6 +118,7 @@
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
+    <ClCompile Include="Number_of_Digit_One.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Pascal_Triangle.cpp" />
