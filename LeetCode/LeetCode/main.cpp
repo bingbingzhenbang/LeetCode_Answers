@@ -63,6 +63,8 @@ void testCountDigitOne();
 void testSimplifyPath();
 void testMaxProfit();
 void testMaxProfit2();
+void testLongestCommonPrefix();
+void testFindMin();
 
 int main()
 {
@@ -130,6 +132,8 @@ int main()
 	//testCountDigitOne();
 	//testSimplifyPath();
 	//testMaxProfit();
-	testMaxProfit2();
+	//testMaxProfit2();
+	//testLongestCommonPrefix();
+	testFindMin();
 	return 0;
 }

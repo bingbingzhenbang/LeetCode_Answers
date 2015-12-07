@@ -93,6 +93,7 @@
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
+    <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
@@ -110,6 +111,7 @@
     <ClCompile Include="Length_of_Last_Word.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
+    <ClCompile Include="Longest_Common_Prefix.cpp" />
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
