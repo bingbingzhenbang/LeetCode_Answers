@@ -65,6 +65,9 @@ void testMaxProfit();
 void testMaxProfit2();
 void testLongestCommonPrefix();
 void testFindMin();
+void testEvalRPN();
+void testMajorityElement2();
+void testNumDecodings();
 
 int main()
 {
@@ -134,6 +137,9 @@ int main()
 	//testMaxProfit();
 	//testMaxProfit2();
 	//testLongestCommonPrefix();
-	testFindMin();
+	//testFindMin();
+	//testEvalRPN();
+	//testMajorityElement2();
+	testNumDecodings();
 	return 0;
 }
