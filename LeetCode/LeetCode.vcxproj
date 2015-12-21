@@ -79,6 +79,7 @@
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
+    <ClCompile Include="Bulb_Switcher.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />

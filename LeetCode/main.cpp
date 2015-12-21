@@ -68,6 +68,7 @@ void testFindMin();
 void testEvalRPN();
 void testMajorityElement2();
 void testNumDecodings();
+void testBulbSwitch();
 
 int main()
 {
@@ -140,6 +141,7 @@ int main()
 	//testFindMin();
 	//testEvalRPN();
 	//testMajorityElement2();
-	testNumDecodings();
+	//testNumDecodings();
+	testBulbSwitch();
 	return 0;
 }
