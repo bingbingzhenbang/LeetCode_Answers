@@ -69,6 +69,7 @@ void testEvalRPN();
 void testMajorityElement2();
 void testNumDecodings();
 void testBulbSwitch();
+void testAddBinary();
 
 int main()
 {
@@ -142,6 +143,7 @@ int main()
 	//testEvalRPN();
 	//testMajorityElement2();
 	//testNumDecodings();
-	testBulbSwitch();
+	//testBulbSwitch(); 
+	testAddBinary();
 	return 0;
 }
