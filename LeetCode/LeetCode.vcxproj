@@ -76,6 +76,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
