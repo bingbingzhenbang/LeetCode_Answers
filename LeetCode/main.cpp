@@ -70,6 +70,7 @@ void testMajorityElement2();
 void testNumDecodings();
 void testBulbSwitch();
 void testAddBinary();
+void testCoinChange();
 
 int main()
 {
@@ -144,6 +145,7 @@ int main()
 	//testMajorityElement2();
 	//testNumDecodings();
 	//testBulbSwitch(); 
-	testAddBinary();
+	//testAddBinary();
+	testCoinChange();
 	return 0;
 }

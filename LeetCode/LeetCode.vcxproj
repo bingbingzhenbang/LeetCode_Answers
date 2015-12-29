@@ -84,6 +84,7 @@
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
+    <ClCompile Include="Coin_Change.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
     <ClCompile Include="Container_With_Most_Water.cpp" />
