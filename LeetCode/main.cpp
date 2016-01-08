@@ -71,6 +71,7 @@ void testNumDecodings();
 void testBulbSwitch();
 void testAddBinary();
 void testCoinChange();
+void testIsPowerOfThree();
 
 int main()
 {
@@ -146,6 +147,7 @@ int main()
 	//testNumDecodings();
 	//testBulbSwitch(); 
 	//testAddBinary();
-	testCoinChange();
+	//testCoinChange();
+	testIsPowerOfThree();
 	return 0;
 }
