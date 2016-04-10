@@ -86,7 +86,7 @@ int main()
 	//testClimbStairs();
 	//testSingleNumber3();
 	//testTitleToNumber();
-	//testsearchInsert();
+	testsearchInsert();
 	//testIsAnagram();
 	//testIsPowerOfTwo();
 	//testSingleNumber2();
@@ -148,6 +148,6 @@ int main()
 	//testBulbSwitch(); 
 	//testAddBinary();
 	//testCoinChange();
-	testIsPowerOfThree();
+	//testIsPowerOfThree();
 	return 0;
 }
