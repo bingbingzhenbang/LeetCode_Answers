@@ -327,6 +327,21 @@
     <ClCompile Include="House_Robber_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Reverse_Vowels_of_a_String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Power_of_Four.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Path_Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
