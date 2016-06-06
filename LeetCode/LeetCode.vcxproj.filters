@@ -324,6 +324,9 @@
     <ClCompile Include="Power_of_Three.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="House_Robber_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
