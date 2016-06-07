@@ -73,6 +73,9 @@ void testAddBinary();
 void testCoinChange();
 void testIsPowerOfThree();
 void testIsPowerOfFour();
+void testLengthOfLIS();
+void testMaxProduct();
+void testMinPatches();
 
 int main()
 {
@@ -150,6 +153,9 @@ int main()
 	//testAddBinary();
 	//testCoinChange();
 	//testIsPowerOfThree();
-	testIsPowerOfFour();
+	//testIsPowerOfFour();
+	//testLengthOfLIS();
+	//testMaxProduct();
+	testMinPatches();
 	return 0;
 }

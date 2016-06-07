@@ -119,16 +119,19 @@
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
     <ClCompile Include="Longest_Common_Prefix.cpp" />
+    <ClCompile Include="Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Majority_Element.cpp" />
     <ClCompile Include="Majority_Element_2.cpp" />
+    <ClCompile Include="Maximum_Product_Subarray.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
     <ClCompile Include="Merge_Sorted_Array.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
+    <ClCompile Include="Minimum_Path_Sum.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Number_of_Digit_One.cpp" />
@@ -136,6 +139,7 @@
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Pascal_Triangle.cpp" />
     <ClCompile Include="Pascal_Triangle_2.cpp" />
+    <ClCompile Include="Patching_Array.cpp" />
     <ClCompile Include="Path_Sum.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
