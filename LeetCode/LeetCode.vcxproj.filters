@@ -357,6 +357,24 @@
     <ClCompile Include="Integer_Break.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Missing_Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Level_Order_Traversal_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Paths.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert_Sorted_List_to_Binary_Search_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Convert_Sorted_Array_to_Binary_Search_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Increasing_Triplet_Subsequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
