@@ -41,6 +41,6 @@ bool increasingTriplet(vector<int>& nums)
 
 void testIncreasingTriplet()
 {
-	vector<int> nums = { -10, 1, 2, 3, -7 };
+	vector<int> nums = { 5, 6, 1, 7 };
 	bool rt = increasingTriplet(nums);
 }
