@@ -81,6 +81,8 @@
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp" />
+    <ClCompile Include="Binary_Tree_Level_Order_Traversal_2.cpp" />
+    <ClCompile Include="Binary_Tree_Paths.cpp" />
     <ClCompile Include="Bulb_Switcher.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
@@ -92,6 +94,8 @@
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Contains_Duplicate_2.cpp" />
     <ClCompile Include="Contains_Duplicate_3.cpp" />
+    <ClCompile Include="Convert_Sorted_Array_to_Binary_Search_Tree.cpp" />
+    <ClCompile Include="Convert_Sorted_List_to_Binary_Search_Tree.cpp" />
     <ClCompile Include="Count_Complete_Tree_Nodes.cpp" />
     <ClCompile Include="Decode_Ways.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
@@ -108,6 +112,7 @@
     <ClCompile Include="House_Robber_3.cpp" />
     <ClCompile Include="Implement_Queue_using_Stacks.cpp" />
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
+    <ClCompile Include="Increasing_Triplet_Subsequence.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Insertion_Sort_List.cpp" />
     <ClCompile Include="Integer_Break.cpp" />
@@ -133,6 +138,7 @@
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
     <ClCompile Include="Minimum_Path_Sum.cpp" />
+    <ClCompile Include="Missing_Number.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Number_of_Digit_One.cpp" />

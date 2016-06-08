@@ -77,6 +77,8 @@ void testLengthOfLIS();
 void testMaxProduct();
 void testMinPatches();
 void testIntegerBreak();
+void testLevelOrderBottom();
+void testIncreasingTriplet();
 
 int main()
 {
@@ -158,6 +160,8 @@ int main()
 	//testLengthOfLIS();
 	//testMaxProduct();
 	//testMinPatches();
-	testIntegerBreak();
+	//testIntegerBreak();
+	//testLevelOrderBottom();
+	testIncreasingTriplet();
 	return 0;
 }
