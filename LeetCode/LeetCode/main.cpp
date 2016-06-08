@@ -76,6 +76,7 @@ void testIsPowerOfFour();
 void testLengthOfLIS();
 void testMaxProduct();
 void testMinPatches();
+void testIntegerBreak();
 
 int main()
 {
@@ -90,7 +91,7 @@ int main()
 	//testClimbStairs();
 	//testSingleNumber3();
 	//testTitleToNumber();
-	testsearchInsert();
+	//testsearchInsert();
 	//testIsAnagram();
 	//testIsPowerOfTwo();
 	//testSingleNumber2();
@@ -156,6 +157,7 @@ int main()
 	//testIsPowerOfFour();
 	//testLengthOfLIS();
 	//testMaxProduct();
-	testMinPatches();
+	//testMinPatches();
+	testIntegerBreak();
 	return 0;
 }
