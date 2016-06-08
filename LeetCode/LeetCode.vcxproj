@@ -110,6 +110,7 @@
     <ClCompile Include="Implement_Stack_using_Queues.cpp" />
     <ClCompile Include="Inorder_Traversal.cpp" />
     <ClCompile Include="Insertion_Sort_List.cpp" />
+    <ClCompile Include="Integer_Break.cpp" />
     <ClCompile Include="Integer_to_Roman.cpp" />
     <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
