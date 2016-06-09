@@ -384,6 +384,9 @@
     <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
