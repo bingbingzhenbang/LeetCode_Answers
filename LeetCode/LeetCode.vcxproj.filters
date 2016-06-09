@@ -375,6 +375,9 @@
     <ClCompile Include="Increasing_Triplet_Subsequence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Intersection_of_Two_Arrays_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

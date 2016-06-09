@@ -28,6 +28,8 @@ int integerBreak(int n)
 	return dp[n];
 }
 
+// pow(3, [n / 3]) > pow(4, [n / 4])
+
 int integerBreak2(int n)
 {
 	if (n == 2)
