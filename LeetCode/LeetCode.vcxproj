@@ -153,6 +153,7 @@
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node.cpp" />
+    <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node_2.cpp" />
     <ClCompile Include="Power_of_Four.cpp" />
     <ClCompile Include="Power_of_Three.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
