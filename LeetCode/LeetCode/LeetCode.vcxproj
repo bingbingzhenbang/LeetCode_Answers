@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
+    <ClCompile Include="Balanced_Binary_Tree.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="Path_Sum.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Plus_One.cpp" />
+    <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node.cpp" />
     <ClCompile Include="Power_of_Four.cpp" />
     <ClCompile Include="Power_of_Three.cpp" />
     <ClCompile Include="Power_of_Two.cpp" />
@@ -200,6 +202,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
+    <ClInclude Include="TreeLinkNode.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

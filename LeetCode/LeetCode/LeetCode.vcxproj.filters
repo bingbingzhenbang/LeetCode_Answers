@@ -378,12 +378,21 @@
     <ClCompile Include="Intersection_of_Two_Arrays_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Balanced_Binary_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TreeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeLinkNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
