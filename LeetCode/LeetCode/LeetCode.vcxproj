@@ -117,6 +117,7 @@
     <ClCompile Include="Insertion_Sort_List.cpp" />
     <ClCompile Include="Integer_Break.cpp" />
     <ClCompile Include="Integer_to_Roman.cpp" />
+    <ClCompile Include="Intersection_of_Two_Arrays_2.cpp" />
     <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />

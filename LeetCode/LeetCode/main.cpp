@@ -79,6 +79,7 @@ void testMinPatches();
 void testIntegerBreak();
 void testLevelOrderBottom();
 void testIncreasingTriplet();
+void testIntersect();
 
 int main()
 {
@@ -163,5 +164,6 @@ int main()
 	//testIntegerBreak();
 	//testLevelOrderBottom();
 	testIncreasingTriplet();
+	//testIntersect();
 	return 0;
 }
