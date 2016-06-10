@@ -91,6 +91,7 @@
     <ClCompile Include="Coin_Change.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
+    <ClCompile Include="Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp" />
     <ClCompile Include="Container_With_Most_Water.cpp" />
     <ClCompile Include="Contains_Duplicate.cpp" />
     <ClCompile Include="Contains_Duplicate_2.cpp" />
@@ -106,6 +107,7 @@
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
+    <ClCompile Include="Generate_Parentheses.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
     <ClCompile Include="House_Robber.cpp" />

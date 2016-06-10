@@ -80,6 +80,7 @@ void testIntegerBreak();
 void testLevelOrderBottom();
 void testIncreasingTriplet();
 void testIntersect();
+void testGenerateParenthesis();
 
 int main()
 {
@@ -163,7 +164,8 @@ int main()
 	//testMinPatches();
 	//testIntegerBreak();
 	//testLevelOrderBottom();
-	testIncreasingTriplet();
+	//testIncreasingTriplet();
 	//testIntersect();
+	testGenerateParenthesis();
 	return 0;
 }
