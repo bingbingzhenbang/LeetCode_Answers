@@ -59,3 +59,22 @@ void connect(TreeLinkNode *root)
 {
 	InnerConnect(root);
 }
+
+void connect2(TreeLinkNode *root)
+{
+	TreeLinkNode *prevLeft = root;
+	while (prevLeft)
+	{
+		TreeLinkNode *prevItr = prevLeft;
+		while (prevItr)
+		{
+			TreeLinkNode *leftChild = prevItr->left, *rightChild = prevItr->right;
+			if (leftChild)
+				leftChild->next = rightChild;
+			if (rightChild && prevItr->next)
+				rightChild->next = prevItr->next->left;
+			prevItr = prevItr->next;
+		}
+		prevLeft = prevLeft->left;
+	}
+}
