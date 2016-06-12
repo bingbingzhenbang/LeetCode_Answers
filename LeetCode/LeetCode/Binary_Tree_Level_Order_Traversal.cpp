@@ -21,6 +21,8 @@
 
 #include "TreeNode.h"
 #include <vector>
+#include <queue>
+#include <utility>
 
 using namespace std;
 
@@ -40,5 +42,29 @@ vector<vector<int>> levelOrder(TreeNode* root)
 {
 	vector<vector<int>> result;
 	levelTraverse(root, 0, result);
+	return result;
+}
+
+vector<vector<int>> levelOrder2(TreeNode* root)
+{
+	vector<vector<int>> result;
+	if (root == 0)
+		return result;
+	queue< pair<int, TreeNode*> > level_order;
+	level_order.push(pair<int, TreeNode*>(0, root));
+	while (!level_order.empty())
+	{
+		int level = level_order.front().first;
+		TreeNode* pNode = level_order.front().second;
+		int val = pNode->val;
+		level_order.pop();
+		if (level == result.size())
+			result.push_back(vector<int>());
+		result[level].push_back(val);
+		if (pNode->left)
+			level_order.push(pair<int, TreeNode*>(level + 1, pNode->left));
+		if (pNode->right)
+			level_order.push(pair<int, TreeNode*>(level + 1, pNode->right));
+	}
 	return result;
 }
