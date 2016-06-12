@@ -98,6 +98,7 @@
     <ClCompile Include="Contains_Duplicate_3.cpp" />
     <ClCompile Include="Convert_Sorted_Array_to_Binary_Search_Tree.cpp" />
     <ClCompile Include="Convert_Sorted_List_to_Binary_Search_Tree.cpp" />
+    <ClCompile Include="Counting_Bits.cpp" />
     <ClCompile Include="Count_Complete_Tree_Nodes.cpp" />
     <ClCompile Include="Decode_Ways.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
@@ -201,6 +202,7 @@
     <ClCompile Include="Valid_Anagram.cpp" />
     <ClCompile Include="Valid_Palindrome.cpp" />
     <ClCompile Include="Valid_Parentheses.cpp" />
+    <ClCompile Include="Word_Ladder.cpp" />
     <ClCompile Include="Word_Pattern.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -393,6 +393,12 @@
     <ClCompile Include="Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Counting_Bits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Word_Ladder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

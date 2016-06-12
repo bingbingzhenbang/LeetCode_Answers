@@ -81,6 +81,7 @@ void testLevelOrderBottom();
 void testIncreasingTriplet();
 void testIntersect();
 void testGenerateParenthesis();
+void testCountBits();
 
 int main()
 {
@@ -166,6 +167,7 @@ int main()
 	//testLevelOrderBottom();
 	//testIncreasingTriplet();
 	//testIntersect();
-	testGenerateParenthesis();
+	//testGenerateParenthesis();
+	testCountBits();
 	return 0;
 }
