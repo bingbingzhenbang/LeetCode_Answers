@@ -108,6 +108,7 @@
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
+    <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
