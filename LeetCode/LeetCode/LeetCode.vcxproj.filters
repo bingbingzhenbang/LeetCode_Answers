@@ -399,6 +399,9 @@
     <ClCompile Include="Word_Ladder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
