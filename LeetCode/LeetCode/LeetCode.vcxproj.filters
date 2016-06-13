@@ -402,6 +402,12 @@
     <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Flatten_Nested_List_Iterator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Count_Numbers_with_Unique_Digits.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

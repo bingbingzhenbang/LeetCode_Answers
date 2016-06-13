@@ -100,6 +100,7 @@
     <ClCompile Include="Convert_Sorted_List_to_Binary_Search_Tree.cpp" />
     <ClCompile Include="Counting_Bits.cpp" />
     <ClCompile Include="Count_Complete_Tree_Nodes.cpp" />
+    <ClCompile Include="Count_Numbers_with_Unique_Digits.cpp" />
     <ClCompile Include="Decode_Ways.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Evaluate_Reverse_Polish_Notation.cpp" />
@@ -109,6 +110,7 @@
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp" />
+    <ClCompile Include="Flatten_Nested_List_Iterator.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
