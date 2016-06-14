@@ -133,6 +133,7 @@
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
     <ClCompile Include="Longest_Common_Prefix.cpp" />
+    <ClCompile Include="Longest_Increasing_Path_in_a_Matrix.cpp" />
     <ClCompile Include="Longest_Increasing_Subsequence.cpp" />
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
