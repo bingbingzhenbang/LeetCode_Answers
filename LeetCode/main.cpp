@@ -82,6 +82,7 @@ void testIncreasingTriplet();
 void testIntersect();
 void testGenerateParenthesis();
 void testCountBits();
+void testMaximumGap();
 
 int main()
 {
@@ -168,6 +169,7 @@ int main()
 	//testIncreasingTriplet();
 	//testIntersect();
 	//testGenerateParenthesis();
-	testCountBits();
+	//testCountBits();
+	testMaximumGap();
 	return 0;
 }

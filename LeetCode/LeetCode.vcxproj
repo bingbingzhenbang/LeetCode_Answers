@@ -141,6 +141,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Majority_Element.cpp" />
     <ClCompile Include="Majority_Element_2.cpp" />
+    <ClCompile Include="Maximum_Gap.cpp" />
     <ClCompile Include="Maximum_Product_Subarray.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
     <ClCompile Include="Merge_Sorted_Array.cpp" />
