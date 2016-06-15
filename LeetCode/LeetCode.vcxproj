@@ -127,6 +127,8 @@
     <ClCompile Include="Intersection_of_Two_Arrays_2.cpp" />
     <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
+    <ClCompile Include="Jump_Game.cpp" />
+    <ClCompile Include="Jump_Game_2.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
     <ClCompile Include="Length_of_Last_Word.cpp" />
@@ -148,6 +150,7 @@
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
     <ClCompile Include="Minimum_Path_Sum.cpp" />
+    <ClCompile Include="Minimum_Size_Subarray_Sum.cpp" />
     <ClCompile Include="Missing_Number.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Nim_Game.cpp" />

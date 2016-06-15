@@ -83,6 +83,8 @@ void testIntersect();
 void testGenerateParenthesis();
 void testCountBits();
 void testMaximumGap();
+void testCanJump();
+void testJump();
 
 int main()
 {
@@ -170,6 +172,8 @@ int main()
 	//testIntersect();
 	//testGenerateParenthesis();
 	//testCountBits();
-	testMaximumGap();
+	//testMaximumGap();
+	//testCanJump();
+	testJump();
 	return 0;
 }
