@@ -85,6 +85,7 @@ void testCountBits();
 void testMaximumGap();
 void testCanJump();
 void testJump();
+void testPostorderTraversal();
 
 int main()
 {
@@ -174,6 +175,7 @@ int main()
 	//testCountBits();
 	//testMaximumGap();
 	//testCanJump();
-	testJump();
+	//testJump();
+	testPostorderTraversal();
 	return 0;
 }

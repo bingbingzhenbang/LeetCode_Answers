@@ -79,11 +79,13 @@
     <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Balanced_Binary_Tree.cpp" />
+    <ClCompile Include="Basic_Calculator.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock.cpp" />
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal_2.cpp" />
     <ClCompile Include="Binary_Tree_Paths.cpp" />
+    <ClCompile Include="Binary_Tree_Postorder_Traversal.cpp" />
     <ClCompile Include="Bulb_Switcher.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
