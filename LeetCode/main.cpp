@@ -86,6 +86,8 @@ void testMaximumGap();
 void testCanJump();
 void testJump();
 void testPostorderTraversal();
+void testCodec();
+void testMaxPathSum();
 
 int main()
 {
@@ -113,7 +115,7 @@ int main()
 	//testConvertToTitle();
 	//testIsPalindrome();
 	//testReverseBits();
-	//testRemoveElement();
+	testRemoveElement();
 	//testIsUgly();
 	//testPlusOne();
 	//testPermute();
@@ -176,6 +178,8 @@ int main()
 	//testMaximumGap();
 	//testCanJump();
 	//testJump();
-	testPostorderTraversal();
+	//testPostorderTraversal();
+	//testCodec();
+	//testMaxPathSum();
 	return 0;
 }
