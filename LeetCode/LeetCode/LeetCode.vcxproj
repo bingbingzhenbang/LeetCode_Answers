@@ -76,6 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="4Sum.cpp" />
     <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
     <ClCompile Include="Balanced_Binary_Tree.cpp" />
@@ -84,6 +86,7 @@
     <ClCompile Include="Best_Time_to_Buy_and_Sell_Stock_2.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal.cpp" />
     <ClCompile Include="Binary_Tree_Level_Order_Traversal_2.cpp" />
+    <ClCompile Include="Binary_Tree_Maximum_Path_Sum.cpp" />
     <ClCompile Include="Binary_Tree_Paths.cpp" />
     <ClCompile Include="Binary_Tree_Postorder_Traversal.cpp" />
     <ClCompile Include="Bulb_Switcher.cpp" />
@@ -193,6 +196,7 @@
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
     <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />
+    <ClCompile Include="Serialize_and_Deserialize_Binary_Tree.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
     <ClCompile Include="Simplify_Path.cpp" />
     <ClCompile Include="Single_Number.cpp" />
@@ -206,6 +210,7 @@
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="Two_Sum.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Unique_Binary_Search_Trees.cpp" />
     <ClCompile Include="Validate_Binary_Search_Tree.cpp" />
