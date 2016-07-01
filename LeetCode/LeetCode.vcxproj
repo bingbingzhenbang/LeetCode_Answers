@@ -194,6 +194,7 @@
     <ClCompile Include="Rotate_Array.cpp" />
     <ClCompile Include="Rotate_Image.cpp" />
     <ClCompile Include="Rotate_List.cpp" />
+    <ClCompile Include="Russian_Doll_Envelopes.cpp" />
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
     <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
     <ClCompile Include="Search_Insert_Position.cpp" />
