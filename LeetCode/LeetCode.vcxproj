@@ -211,6 +211,7 @@
     <ClCompile Include="Spiral_Matrix.cpp" />
     <ClCompile Include="Spiral_Matrix_2.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />
+    <ClCompile Include="Sum_of_Two_Integers.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Triangle.cpp" />

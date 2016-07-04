@@ -459,6 +459,9 @@
     <ClCompile Include="Remove_Duplicate_Letters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sum_of_Two_Integers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

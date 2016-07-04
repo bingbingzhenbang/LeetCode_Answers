@@ -152,7 +152,7 @@ int main()
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
 	//testWordPattern();
-	//testCountDigitOne();
+	testCountDigitOne();
 	//testSimplifyPath();
 	//testMaxProfit();
 	//testMaxProfit2();
