@@ -462,6 +462,12 @@
     <ClCompile Include="Sum_of_Two_Integers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Top_K_Frequent_Elements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZag_Conversion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
