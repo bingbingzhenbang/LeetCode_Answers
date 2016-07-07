@@ -468,6 +468,9 @@
     <ClCompile Include="ZigZag_Conversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Find_K_Pairs_with_Smallest_Sums.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
