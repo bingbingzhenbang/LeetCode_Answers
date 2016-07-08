@@ -88,6 +88,7 @@ void testJump();
 void testPostorderTraversal();
 void testCodec();
 void testMaxPathSum();
+void testSearch();
 
 int main()
 {
@@ -115,7 +116,7 @@ int main()
 	//testConvertToTitle();
 	//testIsPalindrome();
 	//testReverseBits();
-	testRemoveElement();
+	//testRemoveElement();
 	//testIsUgly();
 	//testPlusOne();
 	//testPermute();
@@ -152,7 +153,7 @@ int main()
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
 	//testWordPattern();
-	testCountDigitOne();
+	//testCountDigitOne();
 	//testSimplifyPath();
 	//testMaxProfit();
 	//testMaxProfit2();
@@ -181,5 +182,6 @@ int main()
 	//testPostorderTraversal();
 	//testCodec();
 	//testMaxPathSum();
+	testSearch();
 	return 0;
 }
