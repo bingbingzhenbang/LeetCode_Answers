@@ -89,6 +89,9 @@ void testPostorderTraversal();
 void testCodec();
 void testMaxPathSum();
 void testSearch();
+void testMaxProfit4();
+void testFindMedianSortedArrays();
+void testCalculate2();
 
 int main()
 {
@@ -182,6 +185,9 @@ int main()
 	//testPostorderTraversal();
 	//testCodec();
 	//testMaxPathSum();
-	testSearch();
+	//testSearch();
+	//testMaxProfit4();
+	//testFindMedianSortedArrays();
+	testCalculate2();
 	return 0;
 }
