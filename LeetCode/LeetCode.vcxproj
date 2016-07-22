@@ -77,6 +77,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3Sum.cpp" />
+    <ClCompile Include="3Sum_Closest.cpp" />
     <ClCompile Include="4Sum.cpp" />
     <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
     <ClCompile Include="Minimum_Path_Sum.cpp" />
     <ClCompile Include="Minimum_Size_Subarray_Sum.cpp" />
+    <ClCompile Include="Min_Stack.cpp" />
     <ClCompile Include="Missing_Number.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
     <ClCompile Include="Next_Permutation.cpp" />
