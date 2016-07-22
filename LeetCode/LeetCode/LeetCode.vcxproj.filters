@@ -504,6 +504,12 @@
     <ClCompile Include="Next_Permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3Sum_Closest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Min_Stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
