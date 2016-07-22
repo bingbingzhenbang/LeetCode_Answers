@@ -147,6 +147,7 @@
     <ClCompile Include="Longest_Common_Prefix.cpp" />
     <ClCompile Include="Longest_Increasing_Path_in_a_Matrix.cpp" />
     <ClCompile Include="Longest_Increasing_Subsequence.cpp" />
+    <ClCompile Include="Longest_Palindromic_Substring.cpp" />
     <ClCompile Include="Longest_Substring_Without_Repeating_Characters.cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Search_Tree .cpp" />
     <ClCompile Include="Lowest_Common_Ancestor_of_a_Binary_Tree.cpp" />
@@ -164,6 +165,7 @@
     <ClCompile Include="Minimum_Size_Subarray_Sum.cpp" />
     <ClCompile Include="Missing_Number.cpp" />
     <ClCompile Include="Move_Zeroes.cpp" />
+    <ClCompile Include="Next_Permutation.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Number_of_Digit_One.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
@@ -173,6 +175,8 @@
     <ClCompile Include="Patching_Array.cpp" />
     <ClCompile Include="Path_Sum.cpp" />
     <ClCompile Include="Permutations.cpp" />
+    <ClCompile Include="Permutations_2.cpp" />
+    <ClCompile Include="Permutation_Sequence.cpp" />
     <ClCompile Include="Plus_One.cpp" />
     <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node.cpp" />
     <ClCompile Include="Populating_Next_Right_Pointers_in_Each_Node_2.cpp" />
@@ -216,6 +220,8 @@
     <ClCompile Include="Sort_List.cpp" />
     <ClCompile Include="Spiral_Matrix.cpp" />
     <ClCompile Include="Spiral_Matrix_2.cpp" />
+    <ClCompile Include="Subsets.cpp" />
+    <ClCompile Include="Subsets_2.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />
     <ClCompile Include="Sum_of_Two_Integers.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />

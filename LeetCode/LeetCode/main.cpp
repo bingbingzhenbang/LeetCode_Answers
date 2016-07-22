@@ -1,3 +1,8 @@
+#include <chrono>
+#include <iostream>
+
+using namespace std;
+
 void testTrailingZeroes();
 void testDeleteNode();
 void testSingleNumber();
@@ -92,9 +97,12 @@ void testSearch();
 void testMaxProfit4();
 void testFindMedianSortedArrays();
 void testCalculate2();
+void testLongestPalindrome();
+void testGetPermutation();
 
 int main()
 {
+	auto start = chrono::high_resolution_clock::now();
 	//testTrailingZeroes();
 	//testDeleteNode();
 	//testSingleNumber();
@@ -188,6 +196,11 @@ int main()
 	//testSearch();
 	//testMaxProfit4();
 	//testFindMedianSortedArrays();
-	testCalculate2();
+	//testCalculate2();
+	//testLongestPalindrome();
+	//testGetPermutation();
+	auto end = chrono::high_resolution_clock::now();
+	chrono::duration<double> diff = end - start;
+	cout << "Time : " << diff.count() << "\n";
 	return 0;
 }

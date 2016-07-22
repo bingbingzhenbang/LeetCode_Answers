@@ -5,10 +5,11 @@
 //[1,2,3], [1,3,2], [2,1,3], [2,3,1], [3,1,2], and [3,2,1]. 
 
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
-vector<vector<int>> permute(vector<int>& nums)
+vector<vector<int>> permute1(vector<int>& nums)
 {
 	int sz = nums.size();
 	vector<vector<int>> all_result;
@@ -24,7 +25,7 @@ vector<vector<int>> permute(vector<int>& nums)
 			swap(one_num[i], one_num[sz - 1]);
 			int last = one_num[sz - 1];
 			one_num.pop_back();
-			vector<vector<int>> before_result = permute(one_num);
+			vector<vector<int>> before_result = permute1(one_num);
 			for (int j = 0; j < before_result.size(); ++j)
 			{
 				before_result[j].push_back(last);
@@ -35,12 +36,37 @@ vector<vector<int>> permute(vector<int>& nums)
 	return all_result;
 }
 
+vector<vector<int>> permute2(vector<int>& nums)
+{
+	sort(nums.begin(), nums.end());
+	int size = nums.size();
+	vector< vector<int> > result;
+	if (size == 1)
+	{
+		result.push_back(nums);
+	}
+	else
+	{
+		for (int i = 0; i < size; ++i)
+		{
+			vector<int> onenumber = nums;
+			swap(onenumber[0], onenumber[i]);
+			int beforebegin = onenumber[0];
+			onenumber.erase(onenumber.begin());
+			vector< vector<int> > subresult = permute2(onenumber);
+			int subsize = subresult.size();
+			for (int j = 0; j < subsize; ++j)
+			{
+				subresult[j].insert(subresult[j].begin(), beforebegin);
+				result.push_back(subresult[j]);
+			}
+		}
+	}
+	return result;
+}
+
 void testPermute()
 {
-	int arr[] = {1, 2, 3};
-	int sz = sizeof(arr)/sizeof(int);
-	vector<int> nums(sz);
-	for (int i = 0; i < sz; ++i)
-		nums[i] = arr[i];
-	vector<vector<int>> rt = permute(nums);
+	vector<int> nums = { 1, 2, 3, 4, 5, 6, 7 };
+	vector<vector<int>> rt = permute2(nums);
 }
