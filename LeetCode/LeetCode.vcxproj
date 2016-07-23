@@ -177,6 +177,7 @@
     <ClCompile Include="Pascal_Triangle_2.cpp" />
     <ClCompile Include="Patching_Array.cpp" />
     <ClCompile Include="Path_Sum.cpp" />
+    <ClCompile Include="Path_Sum_2.cpp" />
     <ClCompile Include="Permutations.cpp" />
     <ClCompile Include="Permutations_2.cpp" />
     <ClCompile Include="Permutation_Sequence.cpp" />

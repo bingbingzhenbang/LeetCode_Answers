@@ -18,6 +18,7 @@
 //findMedian() -> 2
 
 #include <queue>
+#include <functional>
 
 using namespace std;
 
