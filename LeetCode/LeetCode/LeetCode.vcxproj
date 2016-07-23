@@ -116,6 +116,7 @@
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
     <ClCompile Include="Find_K_Pairs_with_Smallest_Sums.cpp" />
+    <ClCompile Include="Find_Median_from_Data_Stream.cpp" />
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
     <ClCompile Include="Find_the_Duplicate_Number.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
