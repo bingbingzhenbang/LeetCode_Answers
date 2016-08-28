@@ -99,6 +99,7 @@ void testFindMedianSortedArrays();
 void testCalculate2();
 void testLongestPalindrome();
 void testGetPermutation();
+void testFindTheDifference();
 
 int main()
 {
@@ -199,6 +200,7 @@ int main()
 	//testCalculate2();
 	//testLongestPalindrome();
 	//testGetPermutation();
+	testFindTheDifference();
 	auto end = chrono::high_resolution_clock::now();
 	chrono::duration<double> diff = end - start;
 	cout << "Time : " << diff.count() << "\n";

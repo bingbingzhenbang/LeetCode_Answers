@@ -118,6 +118,7 @@
     <ClCompile Include="Find_K_Pairs_with_Smallest_Sums.cpp" />
     <ClCompile Include="Find_Median_from_Data_Stream.cpp" />
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
+    <ClCompile Include="Find_the_Difference.cpp" />
     <ClCompile Include="Find_the_Duplicate_Number.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="First_Missing_Positive.cpp" />
@@ -235,6 +236,7 @@
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="Two_Sum.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
+    <ClCompile Include="Ugly_Number_2.cpp" />
     <ClCompile Include="Unique_Binary_Search_Trees.cpp" />
     <ClCompile Include="Unique_Paths.cpp" />
     <ClCompile Include="Validate_Binary_Search_Tree.cpp" />
