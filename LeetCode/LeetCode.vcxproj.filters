@@ -525,6 +525,9 @@
     <ClCompile Include="Find_the_Difference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Shuffle_an_Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
