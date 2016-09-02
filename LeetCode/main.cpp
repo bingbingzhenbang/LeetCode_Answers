@@ -101,6 +101,7 @@ void testLongestPalindrome();
 void testGetPermutation();
 void testFindTheDifference();
 void testLargestRectangleArea();
+void testGroupAnagrams();
 
 int main()
 {
@@ -202,7 +203,8 @@ int main()
 	//testLongestPalindrome();
 	//testGetPermutation();
 	//testFindTheDifference();
-	testLargestRectangleArea();
+	//testLargestRectangleArea();
+	testGroupAnagrams();
 	auto end = chrono::high_resolution_clock::now();
 	chrono::duration<double> diff = end - start;
 	cout << "Time : " << diff.count() << "\n";

@@ -126,6 +126,7 @@
     <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp" />
     <ClCompile Include="Flatten_Nested_List_Iterator.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
+    <ClCompile Include="Group_Anagrams.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
     <ClCompile Include="House_Robber.cpp" />

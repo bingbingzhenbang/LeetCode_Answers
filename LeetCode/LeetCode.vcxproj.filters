@@ -537,6 +537,9 @@
     <ClCompile Include="First_Unique_Character_in_a_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Group_Anagrams.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
