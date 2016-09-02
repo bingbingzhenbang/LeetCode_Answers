@@ -122,6 +122,7 @@
     <ClCompile Include="Find_the_Duplicate_Number.cpp" />
     <ClCompile Include="First_Bad_Version.cpp" />
     <ClCompile Include="First_Missing_Positive.cpp" />
+    <ClCompile Include="First_Unique_Character_in_a_String.cpp" />
     <ClCompile Include="Flatten_Binary_Tree_to_Linked_List.cpp" />
     <ClCompile Include="Flatten_Nested_List_Iterator.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
@@ -192,6 +193,7 @@
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
+    <ClCompile Include="Ransom_Note.cpp" />
     <ClCompile Include="Rectangle_Area.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array_2.cpp" />
