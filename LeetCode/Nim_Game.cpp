@@ -13,6 +13,10 @@ bool canWinNim(int n)
 	if (n <= 3)
 		return true;
 	else
-		return !(canWinNim(n - 1) || canWinNim(n - 2) || canWinNim(n - 3));
-	return (n % 4) != 0;
+		return !( canWinNim(n - 1) && canWinNim(n - 2) && canWinNim(n - 3) );
+}
+
+bool canWinNim2(int n)
+{
+	return n % 4;
 }
