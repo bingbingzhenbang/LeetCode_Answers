@@ -540,6 +540,9 @@
     <ClCompile Include="Group_Anagrams.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Shortest_Palindrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

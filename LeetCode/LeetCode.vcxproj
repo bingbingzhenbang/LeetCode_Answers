@@ -222,6 +222,7 @@
     <ClCompile Include="Self_Crossing.cpp" />
     <ClCompile Include="Serialize_and_Deserialize_Binary_Tree.cpp" />
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
+    <ClCompile Include="Shortest_Palindrome.cpp" />
     <ClCompile Include="Shuffle_an_Array.cpp" />
     <ClCompile Include="Simplify_Path.cpp" />
     <ClCompile Include="Single_Number.cpp" />
