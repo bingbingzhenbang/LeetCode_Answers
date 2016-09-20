@@ -176,6 +176,7 @@
     <ClCompile Include="Next_Permutation.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Number_of_Digit_One.cpp" />
+    <ClCompile Include="Number_of_Islands.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
     <ClCompile Include="Pascal_Triangle.cpp" />
