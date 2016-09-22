@@ -549,6 +549,9 @@
     <ClCompile Include="Integer_Replacement.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Two_Sum_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

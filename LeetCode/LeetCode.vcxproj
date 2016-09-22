@@ -243,6 +243,7 @@
     <ClCompile Include="Top_K_Frequent_Elements.cpp" />
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="Two_Sum.cpp" />
+    <ClCompile Include="Two_Sum_2.cpp" />
     <ClCompile Include="Ugly_Number.cpp" />
     <ClCompile Include="Ugly_Number_2.cpp" />
     <ClCompile Include="Unique_Binary_Search_Trees.cpp" />
