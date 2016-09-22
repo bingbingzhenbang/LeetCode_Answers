@@ -106,7 +106,7 @@ void testGroupAnagrams();
 int main()
 {
 	auto start = chrono::high_resolution_clock::now();
-	//testTrailingZeroes();
+	testTrailingZeroes();
 	//testDeleteNode();
 	//testSingleNumber();
 	//testContainsDuplicate();
@@ -167,7 +167,7 @@ int main()
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
 	//testWordPattern();
-	testCountDigitOne();
+	//testCountDigitOne();
 	//testSimplifyPath();
 	//testMaxProfit();
 	//testMaxProfit2();
