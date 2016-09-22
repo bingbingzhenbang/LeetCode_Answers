@@ -167,7 +167,7 @@ int main()
 	//testContainsNearbyDuplicate();
 	//testContainsNearbyAlmostDuplicate();
 	//testWordPattern();
-	//testCountDigitOne();
+	testCountDigitOne();
 	//testSimplifyPath();
 	//testMaxProfit();
 	//testMaxProfit2();
@@ -204,7 +204,7 @@ int main()
 	//testGetPermutation();
 	//testFindTheDifference();
 	//testLargestRectangleArea();
-	testGroupAnagrams();
+	//testGroupAnagrams();
 	auto end = chrono::high_resolution_clock::now();
 	chrono::duration<double> diff = end - start;
 	cout << "Time : " << diff.count() << "\n";
