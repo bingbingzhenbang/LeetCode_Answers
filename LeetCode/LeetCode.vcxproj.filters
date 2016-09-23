@@ -552,6 +552,9 @@
     <ClCompile Include="Two_Sum_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Binary_Watch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

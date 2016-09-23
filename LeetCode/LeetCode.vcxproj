@@ -92,6 +92,7 @@
     <ClCompile Include="Binary_Tree_Maximum_Path_Sum.cpp" />
     <ClCompile Include="Binary_Tree_Paths.cpp" />
     <ClCompile Include="Binary_Tree_Postorder_Traversal.cpp" />
+    <ClCompile Include="Binary_Watch.cpp" />
     <ClCompile Include="Bulb_Switcher.cpp" />
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
