@@ -555,6 +555,9 @@
     <ClCompile Include="Binary_Watch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Surrounded_Regions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
