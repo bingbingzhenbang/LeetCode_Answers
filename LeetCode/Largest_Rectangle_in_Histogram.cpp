@@ -10,7 +10,7 @@
 //if the indexes stored in stack from bottom to top are
 //i_1, i_2, ..., i_k, i_k+1, then
 //height[i_1] <= height[i_2] <= ... <= height[i_k] <= height[i_k+1]
-//and for any j that i_k < j < i_k+1 height[j] >= height[i_k] and height[j] > height[i_k+1]
+//and for any j that i_k < j < i_k+1 height[j] > height[i_k] and height[j] > height[i_k+1]
 
 #include <vector>
 #include <stack>
