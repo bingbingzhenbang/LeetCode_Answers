@@ -1,12 +1,13 @@
 #ifndef TREENODE_H
 #define TREENODE_H
 
-struct TreeNode
-{
+struct TreeNode {
 	int val;
 	TreeNode *left;
 	TreeNode *right;
-	TreeNode(int x = 0) : val(x), left(0), right(0) {}
+	TreeNode() : val(0), left(nullptr), right(nullptr) {}
+	TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+	TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
 #endif // TREENODE_H
