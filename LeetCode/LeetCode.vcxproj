@@ -82,6 +82,7 @@
     <ClCompile Include="4Sum.cpp" />
     <ClCompile Include="Add_Binary.cpp" />
     <ClCompile Include="Add_Digits.cpp" />
+    <ClCompile Include="Add_Two_Numbers.cpp" />
     <ClCompile Include="Balanced_Binary_Tree.cpp" />
     <ClCompile Include="Basic_Calculator.cpp" />
     <ClCompile Include="Basic_Calculator_2.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
     <ClCompile Include="Largest_Number.cpp" />
     <ClCompile Include="Largest_Rectangle_in_Histogram.cpp" />
+    <ClCompile Include="Leaf_Similar_Trees.cpp" />
     <ClCompile Include="Length_of_Last_Word.cpp" />
     <ClCompile Include="Linked_List_Cycle.cpp" />
     <ClCompile Include="Linked_List_Cycle_2.cpp" />
@@ -215,10 +217,12 @@
     <ClCompile Include="Reverse_Linked_List.cpp" />
     <ClCompile Include="Reverse_Vowels_of_a_String.cpp" />
     <ClCompile Include="Reverse_Words_in_a_String.cpp" />
+    <ClCompile Include="Richest_Customer_Wealth.cpp" />
     <ClCompile Include="Roman_to_Integer.cpp" />
     <ClCompile Include="Rotate_Array.cpp" />
     <ClCompile Include="Rotate_Image.cpp" />
     <ClCompile Include="Rotate_List.cpp" />
+    <ClCompile Include="Running_Sum_of_1d_Array.cpp" />
     <ClCompile Include="Russian_Doll_Envelopes.cpp" />
     <ClCompile Include="Search_a_2D_Matrix.cpp" />
     <ClCompile Include="Search_a_2D_Matrix_2.cpp" />
@@ -243,6 +247,7 @@
     <ClCompile Include="Sum_of_Two_Integers.cpp" />
     <ClCompile Include="Surrounded_Regions.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />
+    <ClCompile Include="Swap_Numbers_Lcci.cpp" />
     <ClCompile Include="Symmetric_Tree.cpp" />
     <ClCompile Include="Top_K_Frequent_Elements.cpp" />
     <ClCompile Include="Triangle.cpp" />

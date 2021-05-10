@@ -561,6 +561,21 @@
     <ClCompile Include="Maximal_Rectangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Add_Two_Numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Leaf_Similar_Trees.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Running_Sum_of_1d_Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Richest_Customer_Wealth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Swap_Numbers_Lcci.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
