@@ -114,6 +114,7 @@
     <ClCompile Include="Count_Numbers_with_Unique_Digits.cpp" />
     <ClCompile Include="Decode_Ways.cpp" />
     <ClCompile Include="Decode_Xored_Array.cpp" />
+    <ClCompile Include="Decode_Xored_Permutation.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Evaluate_Reverse_Polish_Notation.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
@@ -265,6 +266,7 @@
     <ClCompile Include="Word_Ladder.cpp" />
     <ClCompile Include="Word_Pattern.cpp" />
     <ClCompile Include="Xor_Operation_in_an_Array.cpp" />
+    <ClCompile Include="Xor_Queries_of_a_Subarray.cpp" />
     <ClCompile Include="ZigZag_Conversion.cpp" />
     <ClCompile Include="Zuo_Xuan_Zhuan_Zi_Fu_Chuan_Lcof.cpp" />
   </ItemGroup>

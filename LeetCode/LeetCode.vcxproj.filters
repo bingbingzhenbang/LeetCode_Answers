@@ -585,6 +585,12 @@
     <ClCompile Include="Zuo_Xuan_Zhuan_Zi_Fu_Chuan_Lcof.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Decode_Xored_Permutation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Xor_Queries_of_a_Subarray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

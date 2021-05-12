@@ -102,11 +102,13 @@ void testGetPermutation();
 void testFindTheDifference();
 void testLargestRectangleArea();
 void testGroupAnagrams();
+void testDecode();
 
 int main()
 {
 	auto start = chrono::high_resolution_clock::now();
-	testTrailingZeroes();
+	testDecode();
+	//testTrailingZeroes();
 	//testDeleteNode();
 	//testSingleNumber();
 	//testContainsDuplicate();
