@@ -591,6 +591,24 @@
     <ClCompile Include="Xor_Queries_of_a_Subarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Queries_on_Number_of_Points_Inside_a_Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Jewels_and_Stones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Number_of_Good_Pairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shuffle_the_Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum_Operations_to_Make_the_Array_Increasing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Maximum_Ice_Cream_Bars.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

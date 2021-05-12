@@ -148,6 +148,7 @@
     <ClCompile Include="Intersection_of_Two_Arrays_2.cpp" />
     <ClCompile Include="Intersection_of_Two_Linked_Lists.cpp" />
     <ClCompile Include="Isomorphic_Strings.cpp" />
+    <ClCompile Include="Jewels_and_Stones.cpp" />
     <ClCompile Include="Jump_Game.cpp" />
     <ClCompile Include="Jump_Game_2.cpp" />
     <ClCompile Include="Kth_Smallest_Element_in_a_BST.cpp" />
@@ -170,12 +171,14 @@
     <ClCompile Include="Maximal_Rectangle.cpp" />
     <ClCompile Include="Maximal_Square.cpp" />
     <ClCompile Include="Maximum_Gap.cpp" />
+    <ClCompile Include="Maximum_Ice_Cream_Bars.cpp" />
     <ClCompile Include="Maximum_Product_Subarray.cpp" />
     <ClCompile Include="Maximum_Subarray.cpp" />
     <ClCompile Include="Median_of_Two_Sorted_Arrays.cpp" />
     <ClCompile Include="Merge_Sorted_Array.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
+    <ClCompile Include="Minimum_Operations_to_Make_the_Array_Increasing.cpp" />
     <ClCompile Include="Minimum_Path_Sum.cpp" />
     <ClCompile Include="Minimum_Size_Subarray_Sum.cpp" />
     <ClCompile Include="Min_Stack.cpp" />
@@ -184,6 +187,7 @@
     <ClCompile Include="Next_Permutation.cpp" />
     <ClCompile Include="Nim_Game.cpp" />
     <ClCompile Include="Number_of_Digit_One.cpp" />
+    <ClCompile Include="Number_of_Good_Pairs.cpp" />
     <ClCompile Include="Number_of_Islands.cpp" />
     <ClCompile Include="Palindrome_Linked_List.cpp" />
     <ClCompile Include="Palindrome_Number.cpp" />
@@ -203,6 +207,7 @@
     <ClCompile Include="Power_of_Two.cpp" />
     <ClCompile Include="Preorder_Traversal.cpp" />
     <ClCompile Include="Product_of_Array_Except_Self.cpp" />
+    <ClCompile Include="Queries_on_Number_of_Points_Inside_a_Circle.cpp" />
     <ClCompile Include="Ransom_Note.cpp" />
     <ClCompile Include="Rectangle_Area.cpp" />
     <ClCompile Include="Remove_Duplicates_from_Sorted_Array.cpp" />
@@ -235,6 +240,7 @@
     <ClCompile Include="Set_Matrix_Zeroes.cpp" />
     <ClCompile Include="Shortest_Palindrome.cpp" />
     <ClCompile Include="Shuffle_an_Array.cpp" />
+    <ClCompile Include="Shuffle_the_Array.cpp" />
     <ClCompile Include="Simplify_Path.cpp" />
     <ClCompile Include="Single_Number.cpp" />
     <ClCompile Include="Single_Number_2.cpp" />
