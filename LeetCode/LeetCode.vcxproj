@@ -115,11 +115,13 @@
     <ClCompile Include="Decode_Ways.cpp" />
     <ClCompile Include="Decode_Xored_Array.cpp" />
     <ClCompile Include="Decode_Xored_Permutation.cpp" />
+    <ClCompile Include="Deepest_Leaves_Sum.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
     <ClCompile Include="Evaluate_Reverse_Polish_Notation.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
     <ClCompile Include="Factorial_Trailing_Zeroes.cpp" />
+    <ClCompile Include="Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_that_Tree.cpp" />
     <ClCompile Include="Find_K_Pairs_with_Smallest_Sums.cpp" />
     <ClCompile Include="Find_Median_from_Data_Stream.cpp" />
     <ClCompile Include="Find_Minimum_in_Rotated_Sorted_Array.cpp" />
@@ -132,6 +134,7 @@
     <ClCompile Include="Flatten_Nested_List_Iterator.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
     <ClCompile Include="Group_Anagrams.cpp" />
+    <ClCompile Include="Guess_Numbers.cpp" />
     <ClCompile Include="Hamming_Weight.cpp" />
     <ClCompile Include="Happy_Number.cpp" />
     <ClCompile Include="House_Robber.cpp" />
@@ -178,6 +181,7 @@
     <ClCompile Include="Merge_Sorted_Array.cpp" />
     <ClCompile Include="Merge_Two_Sorted_Lists.cpp" />
     <ClCompile Include="Minimum_Depth_of_Binary_Tree.cpp" />
+    <ClCompile Include="Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cpp" />
     <ClCompile Include="Minimum_Operations_to_Make_the_Array_Increasing.cpp" />
     <ClCompile Include="Minimum_Path_Sum.cpp" />
     <ClCompile Include="Minimum_Size_Subarray_Sum.cpp" />
@@ -249,6 +253,7 @@
     <ClCompile Include="Sort_List.cpp" />
     <ClCompile Include="Spiral_Matrix.cpp" />
     <ClCompile Include="Spiral_Matrix_2.cpp" />
+    <ClCompile Include="Subrectangle_Queries.cpp" />
     <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="Subsets_2.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />

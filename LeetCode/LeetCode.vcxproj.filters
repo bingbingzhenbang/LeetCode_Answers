@@ -609,6 +609,21 @@
     <ClCompile Include="Maximum_Ice_Cream_Bars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Guess_Numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Subrectangle_Queries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_that_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Deepest_Leaves_Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
