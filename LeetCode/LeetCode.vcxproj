@@ -173,6 +173,7 @@
     <ClCompile Include="Majority_Element_2.cpp" />
     <ClCompile Include="Maximal_Rectangle.cpp" />
     <ClCompile Include="Maximal_Square.cpp" />
+    <ClCompile Include="Maximum_Binary_Tree.cpp" />
     <ClCompile Include="Maximum_Gap.cpp" />
     <ClCompile Include="Maximum_Ice_Cream_Bars.cpp" />
     <ClCompile Include="Maximum_Product_Subarray.cpp" />
