@@ -636,6 +636,9 @@
     <ClCompile Include="Combination_Sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Clone_N_Ary_Tree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">

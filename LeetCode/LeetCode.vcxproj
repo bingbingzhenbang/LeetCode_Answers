@@ -99,6 +99,7 @@
     <ClCompile Include="Bulls_and_Cows.cpp" />
     <ClCompile Include="Burst_Balloons.cpp" />
     <ClCompile Include="Climbing_Stairs.cpp" />
+    <ClCompile Include="Clone_N_Ary_Tree.cpp" />
     <ClCompile Include="Coin_Change.cpp" />
     <ClCompile Include="Combinations.cpp" />
     <ClCompile Include="Combination_Sum.cpp" />
