@@ -101,6 +101,7 @@
     <ClCompile Include="Climbing_Stairs.cpp" />
     <ClCompile Include="Coin_Change.cpp" />
     <ClCompile Include="Combinations.cpp" />
+    <ClCompile Include="Combination_Sum.cpp" />
     <ClCompile Include="Compare_Version_Numbers.cpp" />
     <ClCompile Include="Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp" />
     <ClCompile Include="Container_With_Most_Water.cpp" />
@@ -259,6 +260,7 @@
     <ClCompile Include="Subsets.cpp" />
     <ClCompile Include="Subsets_2.cpp" />
     <ClCompile Include="Summary_Ranges.cpp" />
+    <ClCompile Include="Sum_of_Nodes_with_Even_Valued_Grandparent.cpp" />
     <ClCompile Include="Sum_of_Two_Integers.cpp" />
     <ClCompile Include="Surrounded_Regions.cpp" />
     <ClCompile Include="Swap_Nodes_in_Pairs.cpp" />

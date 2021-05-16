@@ -630,6 +630,12 @@
     <ClCompile Include="Minimum_Operations_to_Make_Array_Equal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sum_of_Nodes_with_Even_Valued_Grandparent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Combination_Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
