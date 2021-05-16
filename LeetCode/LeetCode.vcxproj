@@ -119,6 +119,7 @@
     <ClCompile Include="Decode_Xored_Permutation.cpp" />
     <ClCompile Include="Deepest_Leaves_Sum.cpp" />
     <ClCompile Include="Delete_Node_in_a_Linked_List.cpp" />
+    <ClCompile Include="Dot_Product_of_Two_Sparse_Vectors.cpp" />
     <ClCompile Include="Evaluate_Reverse_Polish_Notation.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Number.cpp" />
     <ClCompile Include="Excel_Sheet_Column_Title.cpp" />
@@ -288,6 +289,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="TreeLinkNode.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>

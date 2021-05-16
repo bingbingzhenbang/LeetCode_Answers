@@ -639,6 +639,9 @@
     <ClCompile Include="Clone_N_Ary_Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Dot_Product_of_Two_Sparse_Vectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
@@ -648,6 +651,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TreeLinkNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
